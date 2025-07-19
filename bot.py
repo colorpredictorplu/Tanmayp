@@ -6,7 +6,7 @@ import re
 from datetime import datetime, timedelta
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-API_TOKEN = '7377723790:AAF4CeGIpdyjF2DKvhj_qLhtKOWqRboHbjc'
+API_TOKEN = '7377723790:AAEgIrRPMLuQv766LDVgOQorApF1Ih7fgvE'
 OWNER_ID = 8115268811
 ADMIN_USERNAME = 'TANMAYPAUL211'
 MANDATORY_CHANNEL_ID = -1002322862030  # Hidden mandatory channel
